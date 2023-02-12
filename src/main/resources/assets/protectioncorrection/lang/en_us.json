@@ -1,0 +1,7 @@
+{
+  "attribute.protectioncorrection.protection": "Overall Protection",
+  "attribute.protectioncorrection.frontal_protection": "Frontal Protection",
+  "attribute.protectioncorrection.rearward_protection": "Rearwards Protection",
+  "attribute.protectioncorrection.sideward_protection": "Sidewards Protection",
+  "attribute.protectioncorrection.defense": "Defense"
+}
